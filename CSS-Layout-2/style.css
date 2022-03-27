@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(211, 211, 211)
+    
+}
+#wrapper {
+    width: 1000px;
+    height: 900px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+#header {
+    background-color: rgb(255, 51, 0);
+    width: 1000px;
+    height: 100px;
+}
+#nav {
+    background-color: rgb(255, 166, 0);
+    width: 1000px;
+    height: 100px;
+    
+}
+#side_left {
+    background-color: rgb(255, 255, 0);
+    width: 300px;
+    height: 600px;
+    float: left;
+    
+}
+#content {
+    background-color: rgb(30, 139, 30);
+    width: 400px;
+    height: 600px;
+    float: left;
+    
+}
+#side_right {
+    background-color: rgb(0, 0, 255);
+    width: 300px;
+    height: 600px;
+    float: left;
+    
+}
+#footer {
+    background-color: rgb(128, 0, 128);
+    width: 1000px;
+    height: 100px;
+    clear: both;
+}

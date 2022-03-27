@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(211, 211, 211)
+    
+}
+#wrapper {
+    width: 1000px;
+    height: 900px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+#side {
+    background-color: rgb(255, 0, 0);
+    width: 300px;
+    height: 900px;
+    float: left;
+}
+#header {
+    background-color: rgb(255, 166, 0);
+    width: 700px;
+    height: 300px;
+}
+#content {
+    background-color: rgb(255, 255, 0);
+    width: 700px;
+    height: 300px;
+}
+#footer {
+    background-color: rgb(30, 139, 30);
+    width: 700px;
+    height: 300px;
+}

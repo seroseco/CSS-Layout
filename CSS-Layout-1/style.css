@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(255, 249, 166)
+    
+}
+#wrapper {
+    /* border: 2px rgb(255, 0, 0) solid; */
+    width: 1000px;
+    height: 900px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+#header {
+    background-color: rgb(0, 128, 0);
+    width: 1000px;
+    height: 100px;
+}
+#nav {
+    background-color: rgb(144, 238, 144);
+    width: 1000px;
+    height: 100px;
+    
+}
+#side {
+    background-color: rgb(173, 216, 230);
+    width: 300px;
+    height: 600px;
+    float: left;
+    
+}
+#content {
+    background-color: rgb(211, 211, 211);
+    width: 700px;
+    height: 600px;
+    float: left;
+    
+}
+#footer {
+    background-color: rgb(135, 206, 250);
+    width: 1000px;
+    height: 100px;
+    /* float: left; */
+    clear: both;
+}
